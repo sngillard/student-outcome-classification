@@ -2,6 +2,7 @@
 
 ## Overview
 This project builds and evaluates multiple supervised machine learning models to predict student success outcomes in higher education.  
+
 The target variable represents whether a student **drops out**, **remains enrolled**, or **graduates**.
 
 The project follows an end-to-end machine learning workflow including data preprocessing, exploratory data analysis (EDA), model training, model evaluation, and model comparison.
