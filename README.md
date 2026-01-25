@@ -57,7 +57,7 @@ Models are evaluated using accuracy, classification reports, and confusion matri
 - Seaborn
 
 **Models & Techniques**
-- Gradient Boosting Classifier (Ensemble Learning)
+- Gradient Boosting Classifier 
 - Multinomial Logistic Regression
 - Exploratory Data Analysis (EDA)
 - Multiple Linear Regression 
